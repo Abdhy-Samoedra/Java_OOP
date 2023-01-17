@@ -1,7 +1,7 @@
 package Session4;
 
 public class Student {
-    //ini atribut
+    //ini atribut dari class student
     private String id;
     private String name;
     private String className;
