@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lecturer/src"/>
+	<classpathentry kind="src" path="Practice/src"/>
+	<classpathentry excluding="Task1/" kind="src" path="Task/src"/>
+	<classpathentry kind="src" path="Task/src/Task1"/>
+	<classpathentry kind="output" path="out/production/Lecturer"/>
+</classpath>
